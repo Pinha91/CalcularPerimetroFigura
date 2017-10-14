@@ -1,0 +1,10 @@
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\bin\Debug\CalcularPerimetroFigura.exe.config
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\bin\Debug\CalcularPerimetroFigura.exe
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\bin\Debug\CalcularPerimetroFigura.pdb
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\obj\Debug\CalcularPerimetroFigura.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\obj\Debug\CalcularPerimetroFigura.CalculateFigure.resources
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\obj\Debug\CalcularPerimetroFigura.Properties.Resources.resources
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\obj\Debug\CalcularPerimetroFigura.csproj.GenerateResource.Cache
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\obj\Debug\CalcularPerimetroFigura.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\obj\Debug\CalcularPerimetroFigura.exe
+D:\Visual Studio 2017\WorkProyectVisual\CalcularPerimetroFigura\CalcularPerimetroFigura\obj\Debug\CalcularPerimetroFigura.pdb
